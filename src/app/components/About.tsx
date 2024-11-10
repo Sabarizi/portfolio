@@ -1,4 +1,3 @@
-import Link from "next/link";
 import Image from "next/image";
 // Import a profile picture here or use any relevant image
 
